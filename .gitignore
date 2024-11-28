@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+api-key.txt
+mongoDB_credentials.txt
+.env
